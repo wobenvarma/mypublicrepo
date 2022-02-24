@@ -1,0 +1,3 @@
+check error 
+find the bug 
+try to resolve
